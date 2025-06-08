@@ -1,4 +1,4 @@
-"""Obsidian File Organizer Tool
+"""Obsidian Folder Organizer Tool
 
 This tool moves Obsidian Markdown files to folders based on tags.
 """
